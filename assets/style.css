@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	background-color: black;
+	color: white;
+}
+
+.lol {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	height: 40vh;
+}
+
+.sanya__lox {
+	display: block;
+	text-align: center;
+	font-size: 150px;
+}
+
+.sanya__arguments {
+	font-size: 60px;
+}
+
+.sanya__arguments2 {
+	font-size: 100px
+}
